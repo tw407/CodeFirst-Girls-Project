@@ -1,6 +1,7 @@
 # CodeFirst-Girls-Project
-Emma, Sam &amp; Tina's CF: G Project!
 
+Emma, Sam and Tina's CF:G Project!
+This README will be a place for us to collaborate on ideas for our Project website :) 
 
 Surviving Mathematics at Bath
 •	Home
